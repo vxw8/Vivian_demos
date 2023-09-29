@@ -1,8 +1,0 @@
-%YAML 1.2
----
-name: amazon_product_agent
-comment: An agent to ask questions about an Amazon product
-model:
-    id: text-davinci-003
-prompt:
-    - template: air_fryer_prompt.jinja
