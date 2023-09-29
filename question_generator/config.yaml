@@ -1,0 +1,8 @@
+%YAML 1.2
+---
+name: Test Question Generator
+comment: An agent to give sample test questions based on the topic and context of interest
+model:
+    id: text-davinci-003
+prompt:
+    - template: prompt.jinja
