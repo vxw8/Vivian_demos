@@ -1,2 +1,2 @@
 # demos
-Demos of pdx in the wild !
+PDX python library demos! Build your own LLM Agents!
